@@ -6,8 +6,7 @@ So soll das fertige Programm aussehen:
 
 Der **weiße** Text ist die Ausgabe des Programms. Der **grüne** Text wird vom Benutzer eingegeben.
 
-
-## Das könnte dir helfen:
+## Aufgabenstellung:
 
 * Das Programm soll den User fragen, wie viele SuS die Informatikklausur geschrieben haben.
 * Das Programm soll fragen, wie viele SuS 0 Punkte, 01 Punkt, 02 Punkte .... 15 Punkte geschrieben haben.
